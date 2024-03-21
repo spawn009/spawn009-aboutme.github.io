@@ -1,0 +1,28 @@
+body {
+    background: rgb(41, 41, 41);
+    font-family: Tahoma, "Times New Roman", Arial, Helvetica, sans-serif
+}
+
+.header-main {
+    width: 120px;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+.header-main-logo {
+    width: 1690px;
+    height: 100%;
+    background-color: rgb(47, 61, 255);
+    text-align: right;
+}
+
+.header-main-logobo {
+    width: 1690px;
+    height: 100%;
+    text-align: left;
+    background-color: rgb(250, 44, 44)
+}
+
+.Soccer {
+    text-align: left;
+}
